@@ -1,0 +1,3 @@
+# Done
+
+Now you're done! You have successfully started the Pi-Hole service on your device. What's left now is for you to point your dns traffic to the device, this can be done from your router settings. See this guide:...

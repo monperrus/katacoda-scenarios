@@ -1,5 +1,5 @@
 {
-  "title": "test",
+  "title": "How to setup Pi-Hole using Docker",
   "description": "This is a test",
   "difficulty": "Beginner",
   "time": "5 minutes",
@@ -11,6 +11,7 @@
       },
       {
         "title": "Step 2",
+        "courseData": "setup.sh",
         "text": "step2.md"
       }
     ],
