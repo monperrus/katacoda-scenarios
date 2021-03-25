@@ -1,10 +1,5 @@
-# Interactive Katacoda Scenarios
+# These are my scenarios
 
-[![](http://shields.katacoda.com/katacoda/christian-stj/count.svg)](https://www.katacoda.com/christian-stj "Get your profile on Katacoda.com")
+They can be found [here](https://www.katacoda.com/christian-stj)!!
 
-Visit https://www.katacoda.com/christian-stj to view the profile and interactive scenarios
-
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
-
-For examples, visit https://github.com/katacoda/scenario-example
+I did the Docker/Pi-Hole as part of a course.
