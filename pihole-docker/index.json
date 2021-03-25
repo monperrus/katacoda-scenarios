@@ -11,8 +11,16 @@
       },
       {
         "title": "Step 2",
-        "courseData": "setup.sh",
         "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "courseData": "dns.sh",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4",
+        "text": "step4.md"
       }
     ],
     "intro": {
