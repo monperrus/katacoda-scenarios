@@ -3,7 +3,7 @@
 *Docker is available in this tutorial, but on your local device you must first install docker. Resources can be found [here](https://docs.docker.com/get-docker/).*
 
 ## Docker compose
-Docker compose is a tool for running multiple docker containers and creating and starting them from a simple command. It is simple to use and easy to get started, the only trick is to get a working configuration file but in this tutorial that has already been done for you.
+Docker compose is a tool for running multiple docker containers and creating and starting them from a single command. It is simple to use and easy to get started, the only trick is to create a working configuration file but in this tutorial that has already been done for you.
 
 ## Moving on
 Okay, now we will get started with the Docker process. **Create a file called docker-compose.yaml and fill it with the contents below**. Tip: You can use `$ nano docker-compose.yaml` to create and edit the file or `$ vim docker-compose.yaml` if you're feeling bold.

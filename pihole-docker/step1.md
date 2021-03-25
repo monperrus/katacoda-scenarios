@@ -4,7 +4,7 @@ On the web we are blasted with ads and many ad blockers are imperfect and work i
 
 ## DNS lookup
 
-A DNS lookup is a mechanism to map a dynamic web address "example.com" to a host address (IP address) "123.45.67.89". This process is done by asking a DNS server about a specific web address and then being given the IP address to go to. The Pi-hole service is a DNS server that filters out known ad addresses and returning a "null" value (0.0.0.0).
+A DNS lookup is a mechanism to map a dynamic web address "example.com" to a host address (IP address) "123.45.67.89". This process is done by asking a DNS server about a specific web address and then being given the IP address to go to. The Pi-hole service is a DNS server that filters out known ad addresses and returns a "null" value (0.0.0.0).
 
 ## Doing a DNS lookup
 
@@ -25,4 +25,4 @@ example.com.            4541    IN      A       93.184.216.34
 
 If you did not, try another address in the list.
 
-The numbers to the right is the IP address to the host (server) that example.com points to. As you can see, the dns service will find the host related to the ad service. **Remember the address as we will get back to it later.**
+The last entry is the IP address to the host (server) that example.com points to. As you can see, the DNS service will find the host related to the ad service. **Remember the address as we will get back to it later.**

@@ -5,7 +5,7 @@ Now you're done! You have successfully started the Pi-hole service on your devic
 
 ### Doing port forwarding (if you do this on your own device)
 
-What's left now is for you to point your DNS traffic to the device, this can be done via your router settings. This will, however be very different depending on your router.
+What's left now is for you to point your DNS traffic to the device, this can be done via your router settings. It will, however, be very different depending on your router.
 
 One first step is in your router settings to set a static IP address for your device that is running Pi-hole. Search for your router and "static DHCP" to find out how.
 
