@@ -1,6 +1,6 @@
 {
   "title": "How to setup Pi-Hole using Docker",
-  "description": "This is a test",
+  "description": "This is an interactive tutorial for setting up a Pi-hole service using Docker",
   "difficulty": "Beginner",
   "time": "5 minutes",
   "details": {
