@@ -14,7 +14,7 @@ A DNS lookup can be done by executing the `dig` command with a specific web addr
 $ dig example.com
 ```
 
-Now find an address at [this page](https://v.firebog.net/hosts/static/w3kbl.txt) for known ad sites and run the dig command with it.
+**Now find an address at [this page](https://v.firebog.net/hosts/static/w3kbl.txt) for known ad sites and run the dig command with it.**
 
 In the result you should be able to find something like this:
 
