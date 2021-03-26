@@ -6,8 +6,9 @@
 Docker compose is a tool for running multiple docker containers and creating and starting them from a single command. It is simple to use and easy to get started, the only trick is to create a working configuration file but in this tutorial that has already been done for you.
 
 ## Moving on
-Okay, now we will get started with the Docker process. **Create a file called docker-compose.yaml and fill it with the contents below**. Tip: You can use `$ nano docker-compose.yaml` to create and edit the file or `$ vim docker-compose.yaml` if you're feeling bold.
+Okay, now we will get started with the Docker process. **Create a file called docker-compose.yaml and copy-paste the contents below into it and save**. Tip: You can use `$ nano docker-compose.yaml` to create and edit the file or `$ vim docker-compose.yaml` if you know what you're doing.
 
+This is what you put in your file:
 ```yaml
 version: "3"
 

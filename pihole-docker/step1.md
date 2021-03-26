@@ -8,7 +8,7 @@ A DNS lookup is a mechanism to map a dynamic web address "example.com" to a host
 
 ## Doing a DNS lookup
 
-A DNS lookup can be done by executing the `dig` command with a specific web address. This is an example of how it is done (but you must use an ad web address for the next step):
+A DNS lookup can be done by executing the `dig` command with a specific web address. This is an example of how it is done (**but you must use an ad web address for the next step**):
 
 ```
 $ dig example.com
@@ -16,7 +16,7 @@ $ dig example.com
 
 **Now find an address at [this page](https://v.firebog.net/hosts/static/w3kbl.txt) for known ad sites and run the dig command with it.**
 
-In the result you should be able to find something like this (but with the website you found):
+In the result you should be able to find something like this (**but with the website you found**):
 
 ```
 ;; ANSWER SECTION:
