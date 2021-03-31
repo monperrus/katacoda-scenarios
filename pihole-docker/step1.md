@@ -30,4 +30,4 @@ The last entry in the answer section is the IP address to the host (server) that
 
 If you would like to know more about DNS records:
 - [here's](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts) a link to an article from Digital Ocean
-- [here's](https://internetstiftelsen.se/guide/introduktion-till-ip-internet-protocol/domain-name-system-dns/) a link to an article from The Swedish Internet Foundation.
+- [here's](https://internetstiftelsen.se/guide/introduktion-till-ip-internet-protocol/domain-name-system-dns/) a link to an article from The Swedish Internet Foundation

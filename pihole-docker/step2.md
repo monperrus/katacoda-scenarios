@@ -50,8 +50,4 @@ docker-compose up --no-start
 
 We use the ``--no-start`` flag because we do not want to start the container at this step as the following step will have another DNS configuration.
 
-<span style="color:red">
-
 *Be careful not to go to the next step until you have created the docker container as the next step will disable normal DNS lookups and you will no longer be able to build the container!*
-
-</span>
