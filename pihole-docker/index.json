@@ -2,7 +2,7 @@
   "title": "How to setup Pi-hole using Docker",
   "description": "This is an interactive tutorial for setting up a Pi-hole service using Docker",
   "difficulty": "Intermediate (you need some knowledge of the terminal)",
-  "time": "5 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
