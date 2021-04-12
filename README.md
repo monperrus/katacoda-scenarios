@@ -1,10 +1,8 @@
-# Interactive Katacoda Scenarios
+# These are my scenarios
 
-[![](http://shields.katacoda.com/katacoda/christian-stj/count.svg)](https://www.katacoda.com/christian-stj "Get your profile on Katacoda.com")
+They can be found [here](https://www.katacoda.com/christian-stj)!
 
-Visit https://www.katacoda.com/christian-stj to view the profile and interactive scenarios
 
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
+## Pi-hole with Docker
 
-For examples, visit https://github.com/katacoda/scenario-example
+This scenario was created as part of a university course. Pi-hole is a very good and interesting service that removes ads on a network-wide level and together with Docker it is very ease to install and get going. I made this tutorial to guide users that are somewhat comfortable with the command line interface in creating a Pi-hole service on their device using Docker.

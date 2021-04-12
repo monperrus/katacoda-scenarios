@@ -1,0 +1,39 @@
+{
+  "title": "How to setup Pi-hole using Docker",
+  "description": "This is an interactive tutorial for setting up a Pi-hole service using Docker",
+  "difficulty": "Intermediate (you need some knowledge of the terminal)",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "courseData": "dns.sh",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
